@@ -2,15 +2,15 @@
     "buildTime": "2023-09-08T08:50:50.383Z",
     "sources": [
         {
-            "id": "DynastyScans",
-            "name": "Dynasty Scans",
-            "author": "Netsky",
-            "desc": "Extension that pulls manga from dynasty-scans.com.",
-            "website": "https://github.com/TheNetsky",
-            "contentRating": "ADULT",
-            "version": "2.0.1",
+            "id": "MangaFire",
+            "name": "MangaFire",
+            "author": "Toleas03",
+            "desc": "Extension that pulls manga from mangafire.to.",
+            "website": "https://github.com/toleas03",
+            "contentRating": "MATURE",
+            "version": "1.0.0",
             "icon": "icon.png",
-            "websiteBaseURL": "https://dynasty-scans.com",
+            "websiteBaseURL": "https://mangafire.to",
             "intents": 21
         }
     ]
