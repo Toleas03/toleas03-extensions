@@ -8,7 +8,7 @@
             "desc": "Extension that pulls manga from dynasty-scans.com.",
             "website": "https://github.com/TheNetsky",
             "contentRating": "ADULT",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "icon": "icon.png",
             "websiteBaseURL": "https://dynasty-scans.com",
             "intents": 21
