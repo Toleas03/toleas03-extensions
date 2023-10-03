@@ -2,15 +2,15 @@
     "buildTime": "2023-09-08T08:50:50.383Z",
     "sources": [
         {
-            "id": "MangaFire",
-            "name": "MangaFire",
+            "id": "MangaReader",
+            "name": "MangaReader",
             "author": "Toleas03",
-            "desc": "Extension that pulls manga from mangafire.to.",
-            "website": "https://github.com/toleas03",
+            "desc": "Extension that pulls manga from mangareader.to.",
+            "website": "https://github.com/Toleas03",
             "contentRating": "MATURE",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "icon": "icon.png",
-            "websiteBaseURL": "https://mangafire.to",
+            "websiteBaseURL": "https://mangareader.to",
             "intents": 21
         }
     ]
